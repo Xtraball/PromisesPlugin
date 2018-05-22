@@ -8,6 +8,14 @@
     "browserify": "^14.4.0",
     "es6-promise": "^4.2.2"
   },
+  "cordova": {
+    "id": "es6-promises-plugin",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
   "scripts": {
     "build": "./build"
   },
