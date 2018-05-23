@@ -1,7 +1,7 @@
 {
-  "name": "es6-promise-plugin",
+  "name": "Promises",
   "version": "4.2.2",
-  "description": "ES6-Promises polyfill for Cordova/PhoneGap",
+  "description": "Cordova Promises",
   "main": "www/promise.js",
   "dependencies": {},
   "devDependencies": {
@@ -9,7 +9,7 @@
     "es6-promise": "^4.2.2"
   },
   "cordova": {
-    "id": "es6-promises-plugin",
+    "id": "Promises",
     "platforms": [
       "ios",
       "android",

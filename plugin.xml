@@ -1,6 +1,6 @@
 <plugin
   xmlns="http://www.phonegap.com/ns/plugins/1.0"
-  id="es6-promise-plugin"
+  id="Promises"
   version="4.2.2">
 
   <name>Promise</name>
